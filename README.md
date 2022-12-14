@@ -5,5 +5,5 @@
 
 - 📶  **Networking**
 
-- 📫 How to reach me **denismynari@seznam.cz**
+- **denismynari@seznam.cz**
 
