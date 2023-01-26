@@ -7,4 +7,4 @@
 
 - **denismynari@seznam.cz**
 
-![kybl_enterprise](logo_small.png)
+![kybl_enterprise](logo1_small.png)
