@@ -1,4 +1,4 @@
-<h1 align="center">taso 👋, I'm Denyyys 🚭</h1>
+<h1 align="center"> Denyyys 🚭</h1>
 <h3 align="center">neumim nic - na random veci delam</h3>
 
 ![kybl_enterprise](logo1_small.png)
