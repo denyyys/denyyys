@@ -8,4 +8,5 @@
 - **denismynari@seznam.cz**
 
 ![kybl_enterprise](logo1_small.png)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denyyys)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denyyys&hide=html&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
