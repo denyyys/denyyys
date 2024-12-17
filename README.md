@@ -1,7 +1,7 @@
 <h1 align="center"> Denyyys 🚭</h1>
 <h3 align="center">neumim nic - na random veci delam</h3>
 
-![kybl_enterprise](logo1_small.png)
+[![kybl_enterprise](logo1_small.png)](https://kyblent.eu)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denyyys&repo=skerocalc&theme=gotham)](https://github.com/denyyys/skerocalc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denyyys&repo=kyblRTOS&theme=gotham)](https://github.com/denyyys/kyblRTOS)
